@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tass-1/Code-submissions/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/Tass-1/Code-submissions/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0013-roman-to-integer](https://github.com/Tass-1/Code-submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Tass-1/Code-submissions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Tass-1/Code-submissions/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/Tass-1/Code-submissions/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
 | ------- |
