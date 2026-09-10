@@ -28,4 +28,16 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tass-1/Code-submissions/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Tass-1/Code-submissions/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Tass-1/Code-submissions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Tass-1/Code-submissions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
