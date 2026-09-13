@@ -9,6 +9,7 @@
 | [0068-text-justification](https://github.com/Tass-1/Code-submissions/tree/master/0068-text-justification) |
 | [0134-gas-station](https://github.com/Tass-1/Code-submissions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Tass-1/Code-submissions/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tass-1/Code-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0042-trapping-rain-water](https://github.com/Tass-1/Code-submissions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Tass-1/Code-submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Tass-1/Code-submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tass-1/Code-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Tass-1/Code-submissions/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -70,11 +72,11 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tass-1/Code-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃÂÃÂ¢ÃÂÃÂÃÂÃÂMorrisÃÂÃÂ¢ÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tass-1/Code-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tass-1/Code-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Tass-1/Code-submissions/tree/master/0068-text-justification) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tass-1/Code-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
