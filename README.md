@@ -19,6 +19,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tass-1/Code-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Tass-1/Code-submissions/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Tass-1/Code-submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Tass-1/Code-submissions/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -52,6 +53,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tass-1/Code-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Tass-1/Code-submissions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Tass-1/Code-submissions/tree/master/0068-text-justification) |
+| [0125-valid-palindrome](https://github.com/Tass-1/Code-submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Tass-1/Code-submissions/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
@@ -65,11 +67,11 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tass-1/Code-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## KnuthÃ¢ÂÂMorrisÃ¢ÂÂPratt Algorithm
+## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tass-1/Code-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃ¢ÂÂMoore String-Search Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tass-1/Code-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
