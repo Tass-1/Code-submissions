@@ -22,7 +22,4 @@ class Solution:
                 else:
                     nect += 1
             left += 1
-
-        print(res)
-        print(nums)
         return [list(k) for k in res]
