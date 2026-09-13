@@ -8,12 +8,14 @@ class Solution:
             lh = height[left]
             rh = height[right]
             if lh <= rh:
-                area = min(lh,rh) * (right-left)
-                res = max(res,area)
+                area = lh * (right-left)
+                if res < area:
+                    res = area
                 left += 1
             elif rh <= lh:
-                area = min(lh,rh) * (right-left)
-                res = max(res,area)
+                area = rh * (right-left)
+                if res < area:
+                    res = area
                 right -= 1
             
 
