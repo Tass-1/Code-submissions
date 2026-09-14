@@ -6,7 +6,8 @@ class Solution:
         for i in range(len(nums)):
             t += nums[i]
             while t >= target:
-                minlen = min(minlen,i-left + 1)
+                if (i-left+1)<minlen:
+                    minlen = (i-left+1)
                 t -= nums[left]
                 left += 1
 
