@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Tass-1/Code-submissions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Tass-1/Code-submissions/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Tass-1/Code-submissions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Tass-1/Code-submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Tass-1/Code-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Tass-1/Code-submissions/tree/master/0290-word-pattern) |
@@ -32,4 +33,16 @@
 | ------- |
 | [0001-two-sum](https://github.com/Tass-1/Code-submissions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Tass-1/Code-submissions/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Tass-1/Code-submissions/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Tass-1/Code-submissions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Tass-1/Code-submissions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
