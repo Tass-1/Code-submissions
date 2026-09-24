@@ -6,7 +6,7 @@ class Solution:
         k = points[0][1]
         for start , end in points:
             if start > k:
-                count = count + 1
+                count += 1
                 k = end
         return count
         
