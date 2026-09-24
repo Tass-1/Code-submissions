@@ -35,6 +35,7 @@
 | [0001-two-sum](https://github.com/Tass-1/Code-submissions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Tass-1/Code-submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Tass-1/Code-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0228-summary-ranges](https://github.com/Tass-1/Code-submissions/tree/master/0228-summary-ranges) |
 ## Math
 |  |
 | ------- |
