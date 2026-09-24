@@ -8,6 +8,6 @@ class Solution:
             if curr[0] > k:
                 count += 1
                 k = curr[1]
-            k = min(curr[1],k)
+            
         return count
         
