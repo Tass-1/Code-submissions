@@ -15,6 +15,6 @@ class Solution:
             elif curr[0] <= k >= curr[1]:
                 continue
             else:
-                k = max(k,curr[1])
+                k = curr[1]
                 res.append(curr)
         return res
