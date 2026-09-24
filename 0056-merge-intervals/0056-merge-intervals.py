@@ -11,7 +11,7 @@ class Solution:
             curr = intervals[i]
             if curr[0] <= k and curr[1] >= k:
                 res[-1][1] = curr[1]
-                k = max(k,curr[1])
+                k = curr[1]
             elif curr[0] <= k >= curr[1]:
                 continue
             else:
