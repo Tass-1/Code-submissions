@@ -30,6 +30,7 @@
 | [0049-group-anagrams](https://github.com/Tass-1/Code-submissions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Tass-1/Code-submissions/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Tass-1/Code-submissions/tree/master/0242-valid-anagram) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tass-1/Code-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0057-insert-interval](https://github.com/Tass-1/Code-submissions/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/Tass-1/Code-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0228-summary-ranges](https://github.com/Tass-1/Code-submissions/tree/master/0228-summary-ranges) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tass-1/Code-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Math
 |  |
 | ------- |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Tass-1/Code-submissions/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tass-1/Code-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
