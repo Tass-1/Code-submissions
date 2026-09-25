@@ -17,6 +17,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tass-1/Code-submissions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tass-1/Code-submissions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Tass-1/Code-submissions/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/Tass-1/Code-submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Tass-1/Code-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Tass-1/Code-submissions/tree/master/0290-word-pattern) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tass-1/Code-submissions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Tass-1/Code-submissions/tree/master/0071-simplify-path) |
 ## Bracket Sequences
 |  |
 | ------- |
