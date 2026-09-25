@@ -15,6 +15,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tass-1/Code-submissions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tass-1/Code-submissions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Tass-1/Code-submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Tass-1/Code-submissions/tree/master/0242-valid-anagram) |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tass-1/Code-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Tass-1/Code-submissions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Tass-1/Code-submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
