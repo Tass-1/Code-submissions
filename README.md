@@ -19,6 +19,7 @@
 | [0049-group-anagrams](https://github.com/Tass-1/Code-submissions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Tass-1/Code-submissions/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/Tass-1/Code-submissions/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Tass-1/Code-submissions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Tass-1/Code-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Tass-1/Code-submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Tass-1/Code-submissions/tree/master/0383-ransom-note) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tass-1/Code-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Tass-1/Code-submissions/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/Tass-1/Code-submissions/tree/master/0224-basic-calculator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,8 +77,13 @@
 | [0020-valid-parentheses](https://github.com/Tass-1/Code-submissions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Tass-1/Code-submissions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tass-1/Code-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Tass-1/Code-submissions/tree/master/0224-basic-calculator) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tass-1/Code-submissions/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Tass-1/Code-submissions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
