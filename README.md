@@ -41,11 +41,13 @@
 | [0056-merge-intervals](https://github.com/Tass-1/Code-submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Tass-1/Code-submissions/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/Tass-1/Code-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tass-1/Code-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0228-summary-ranges](https://github.com/Tass-1/Code-submissions/tree/master/0228-summary-ranges) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tass-1/Code-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tass-1/Code-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Tass-1/Code-submissions/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -72,6 +74,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tass-1/Code-submissions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Tass-1/Code-submissions/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tass-1/Code-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
