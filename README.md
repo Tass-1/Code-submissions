@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Tass-1/Code-submissions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Tass-1/Code-submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Tass-1/Code-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Tass-1/Code-submissions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Tass-1/Code-submissions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Tass-1/Code-submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Tass-1/Code-submissions/tree/master/0242-valid-anagram) |
@@ -54,10 +55,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Tass-1/Code-submissions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Tass-1/Code-submissions/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Tass-1/Code-submissions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Tass-1/Code-submissions/tree/master/0202-happy-number) |
 ## Union-Find
 |  |
@@ -86,4 +89,8 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Tass-1/Code-submissions/tree/master/0224-basic-calculator) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Tass-1/Code-submissions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
