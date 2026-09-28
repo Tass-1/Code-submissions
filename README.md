@@ -49,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tass-1/Code-submissions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tass-1/Code-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Tass-1/Code-submissions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Tass-1/Code-submissions/tree/master/0224-basic-calculator) |
@@ -88,9 +89,11 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tass-1/Code-submissions/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/Tass-1/Code-submissions/tree/master/0224-basic-calculator) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tass-1/Code-submissions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Tass-1/Code-submissions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
