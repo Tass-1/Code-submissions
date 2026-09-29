@@ -57,6 +57,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Tass-1/Code-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Tass-1/Code-submissions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Tass-1/Code-submissions/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tass-1/Code-submissions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Tass-1/Code-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Tass-1/Code-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Tass-1/Code-submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Tass-1/Code-submissions/tree/master/0092-reverse-linked-list-ii) |
