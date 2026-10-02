@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tass-1/Code-submissions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Tass-1/Code-submissions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Tass-1/Code-submissions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Tass-1/Code-submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Tass-1/Code-submissions/tree/master/0057-insert-interval) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tass-1/Code-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Tass-1/Code-submissions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Tass-1/Code-submissions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Tass-1/Code-submissions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Tass-1/Code-submissions/tree/master/0086-partition-list) |
