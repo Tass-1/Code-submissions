@@ -91,6 +91,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tass-1/Code-submissions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Tass-1/Code-submissions/tree/master/0071-simplify-path) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Tass-1/Code-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tass-1/Code-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Tass-1/Code-submissions/tree/master/0224-basic-calculator) |
 ## Bracket Sequences
@@ -115,6 +116,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Tass-1/Code-submissions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Tass-1/Code-submissions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Tass-1/Code-submissions/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Tass-1/Code-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tass-1/Code-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tass-1/Code-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Tass-1/Code-submissions/tree/master/0141-linked-list-cycle) |
@@ -126,6 +128,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tass-1/Code-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tass-1/Code-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tass-1/Code-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Tass-1/Code-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tass-1/Code-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Tass-1/Code-submissions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
@@ -134,6 +137,7 @@
 | [0100-same-tree](https://github.com/Tass-1/Code-submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tass-1/Code-submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tass-1/Code-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Tass-1/Code-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tass-1/Code-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Tass-1/Code-submissions/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
@@ -152,6 +156,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tass-1/Code-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tass-1/Code-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tass-1/Code-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Tass-1/Code-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tass-1/Code-submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/Tass-1/Code-submissions/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
