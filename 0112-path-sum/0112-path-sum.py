@@ -17,6 +17,7 @@ class Solution:
             if s == 0 and (roo.right == None and roo.left == None):
                 ans = True
                 p = True
+            
             print("THe val rn" )
             print(s)
             print("THe root rn")
