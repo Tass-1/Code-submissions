@@ -28,6 +28,7 @@
 | [0242-valid-anagram](https://github.com/Tass-1/Code-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Tass-1/Code-submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Tass-1/Code-submissions/tree/master/0383-ransom-note) |
+| [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
 ## Counting
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0130-surrounded-regions](https://github.com/Tass-1/Code-submissions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tass-1/Code-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0228-summary-ranges](https://github.com/Tass-1/Code-submissions/tree/master/0228-summary-ranges) |
+| [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tass-1/Code-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Math
 |  |
@@ -81,6 +83,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tass-1/Code-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Tass-1/Code-submissions/tree/master/0130-surrounded-regions) |
+| [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
 ## Quicksort
 |  |
 | ------- |
@@ -164,6 +167,7 @@
 | [0226-invert-binary-tree](https://github.com/Tass-1/Code-submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tass-1/Code-submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tass-1/Code-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tass-1/Code-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tass-1/Code-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -180,6 +184,7 @@
 | [0133-clone-graph](https://github.com/Tass-1/Code-submissions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Tass-1/Code-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Tass-1/Code-submissions/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tass-1/Code-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tass-1/Code-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -248,4 +253,17 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Tass-1/Code-submissions/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
+## BellmanâFord Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
+## FloydâWarshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
