@@ -261,11 +261,11 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
-## BellmanÃ¢ÂÂFord Algorithm
+## BellmanÃÂ¢ÃÂÃÂFord Algorithm
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
-## FloydÃ¢ÂÂWarshall Algorithm
+## FloydÃÂ¢ÃÂÃÂWarshall Algorithm
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |

@@ -14,8 +14,8 @@ class Solution:
             if st in safe:
                 return True
                 
-            if st not in ind:
-                return True
+            # if st not in ind:
+            #     return True
             if st in visited:
                 return False
             if st in visited:
