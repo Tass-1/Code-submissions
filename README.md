@@ -56,6 +56,7 @@
 | [0228-summary-ranges](https://github.com/Tass-1/Code-submissions/tree/master/0228-summary-ranges) |
 | [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tass-1/Code-submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0945-snakes-and-ladders](https://github.com/Tass-1/Code-submissions/tree/master/0945-snakes-and-ladders) |
 ## Math
 |  |
 | ------- |
@@ -191,6 +192,7 @@
 | [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tass-1/Code-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tass-1/Code-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0945-snakes-and-ladders](https://github.com/Tass-1/Code-submissions/tree/master/0945-snakes-and-ladders) |
 ## Binary Tree
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Tass-1/Code-submissions/tree/master/0130-surrounded-regions) |
+| [0945-snakes-and-ladders](https://github.com/Tass-1/Code-submissions/tree/master/0945-snakes-and-ladders) |
 ## Graph Theory
 |  |
 | ------- |
@@ -264,11 +267,11 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
-## BellmanÃÂÃÂ¢ÃÂÃÂÃÂÃÂFord Algorithm
+## BellmanÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFord Algorithm
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
-## FloydÃÂÃÂ¢ÃÂÃÂÃÂÃÂWarshall Algorithm
+## FloydÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWarshall Algorithm
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
