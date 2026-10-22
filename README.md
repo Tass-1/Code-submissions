@@ -17,6 +17,7 @@
 | [0242-valid-anagram](https://github.com/Tass-1/Code-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Tass-1/Code-submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Tass-1/Code-submissions/tree/master/0383-ransom-note) |
+| [0433-minimum-genetic-mutation](https://github.com/Tass-1/Code-submissions/tree/master/0433-minimum-genetic-mutation) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0290-word-pattern](https://github.com/Tass-1/Code-submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Tass-1/Code-submissions/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/Tass-1/Code-submissions/tree/master/0433-minimum-genetic-mutation) |
 ## Counting
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 | [0210-course-schedule-ii](https://github.com/Tass-1/Code-submissions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Tass-1/Code-submissions/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/Tass-1/Code-submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tass-1/Code-submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tass-1/Code-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/Tass-1/Code-submissions/tree/master/0945-snakes-and-ladders) |
@@ -267,11 +270,11 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
-## BellmanÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFord Algorithm
+## BellmanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFord Algorithm
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
-## FloydÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWarshall Algorithm
+## FloydÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWarshall Algorithm
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Tass-1/Code-submissions/tree/master/0399-evaluate-division) |
@@ -284,4 +287,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Tass-1/Code-submissions/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/Tass-1/Code-submissions/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
